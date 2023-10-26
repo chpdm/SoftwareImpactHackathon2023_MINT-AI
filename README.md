@@ -5,6 +5,12 @@ This project demonstrates the potential use of Large Language Models to:
 - extract entities in this paragraph representing software missing citations
 - suggest a canonical citation for each identified software entity 
 
+The project consists of the following subrepos:
+- [gpt-cite-notebooks](https://github.com/chpdm/gpt-cite-notebooks): a set of notebooks leveraging GPT3.5 prompts to implement the above workflow
+- [manubot-ai-cite](https://github.com/cgreene/manubot-ai-cite): a test application of this workflow in manubot
+- [ai-cite-test-manuscript](https://github.com/chpdm/ai-cite-test-manuscript): a test manuscript template used by manubot
+
+
 ***
 
 ## About this project
