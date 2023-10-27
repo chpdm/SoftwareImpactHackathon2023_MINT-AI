@@ -22,10 +22,10 @@ This repository was developed as part of the [Mapping the Impact of Research Sof
 
 ### Team
 
-Casey Greene (@cgreene)
-Josh Greenberg (@epistemographer)
-Melissa Harrison (@Melissa37)
-Arfon Smith (@arfon)
+Casey Greene (@cgreene)  
+Josh Greenberg (@epistemographer)  
+Melissa Harrison (@Melissa37)    
+Arfon Smith (@arfon)  
 Dario Taraborelli (@dartar)
 
 
