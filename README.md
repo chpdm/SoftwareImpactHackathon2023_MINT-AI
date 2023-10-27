@@ -22,11 +22,11 @@ This repository was developed as part of the [Mapping the Impact of Research Sof
 
 ### Team
 
-- Casey Greene (@cgreene)  
-- Josh Greenberg (@epistemographer)  
-- Melissa Harrison (@Melissa37)    
-- Arfon Smith (@arfon)  
-- Dario Taraborelli (@dartar)
+- Casey Greene ([@cgreene](https://github.com/cgreene))  
+- Josh Greenberg ([@epistemographer](https://github.com/epistemographer))  
+- Melissa Harrison ([@Melissa37](https://github.com/Melissa37))    
+- Arfon Smith ([@arfon](https://github.com/arfon))  
+- Dario Taraborelli ([@dartar](https://github.com/dartar))
 
 ## Code of Conduct
 
