@@ -6,9 +6,10 @@ This project demonstrates the potential use of Large Language Models to:
 - suggest a canonical citation for each identified software entity 
 
 The project consists of the following subrepos:
-- [gpt-cite-notebooks](https://github.com/chpdm/gpt-cite-notebooks): a set of notebooks leveraging GPT3.5 prompts to implement the above workflow
-- [manubot-ai-cite](https://github.com/cgreene/manubot-ai-cite): a test application of this workflow in manubot
-- [ai-cite-test-manuscript](https://github.com/chpdm/ai-cite-test-manuscript): a test manuscript template used by manubot
+- [gpt-cite-notebooks](https://github.com/chpdm/gpt-cite-notebooks): a set of notebooks leveraging GPT3.5 prompts to implement the above workflow.
+- [softcite-data-prep](https://github.com/chpdm/softcite-data-prep): the Softcite software mention dataset that was used to train a custom/fine-tuned GPT 3.5 turbo model.
+- [manubot-ai-cite](https://github.com/cgreene/manubot-ai-cite): a test application of this workflow in manubot.
+- [ai-cite-test-manuscript](https://github.com/chpdm/ai-cite-test-manuscript): a test manuscript template used by manubot.
 
 
 ***
